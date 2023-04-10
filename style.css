@@ -1,0 +1,26 @@
+* {
+    font-family: "Ubuntu", sans-serif;
+    background-color: #333333;
+    color: #ffffff;
+}
+
+form {
+    margin-bottom: 30px;
+}
+
+span {
+    font-weight: 600;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.remove {
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 4px;
+    background-color: red;
+    border-radius: 4px;
+    padding: 2px 4px;
+}
